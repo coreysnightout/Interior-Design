@@ -1,0 +1,12 @@
+.column {
+  width: 200px;
+  float: left;
+  margin-left: 20px;
+
+}
+
+img {
+  max-width: 150px;
+  max-height: auto;
+  border-radius: 5%;
+}
